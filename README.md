@@ -1,5 +1,5 @@
-# employee-management-system-basic with Java
-# - Spring Boot <br> - Jpa <br> - PostgreSQL
+# employee-management-system-basic
+# - Java <br> - HTML <br> - Spring Boot <br> - Jpa <br> - PostgreSQL
 # It is possible to perform CRUD operations on the project.
 # First we see the list of employees.
 ![Screenshot (145)](https://user-images.githubusercontent.com/116680886/232344571-57f232c0-4749-45ce-99b0-bd2203ed06a2.png)
